@@ -24,6 +24,7 @@ I enjoy designing clean user interfaces, building RESTful APIs, and understandin
 - JavaScript (ES6+)
 - HTML5 & CSS3
 - Axios
+- Redux
 
 ### Backend
 - Node.js
@@ -33,6 +34,8 @@ I enjoy designing clean user interfaces, building RESTful APIs, and understandin
 
 ### Database
 - MySQL
+- Supabase
+- Firebase
 
 ---
 
