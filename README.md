@@ -1,12 +1,10 @@
-<div align="center">
 
-# 👋 Hi, I'm Yashaswi Patil
+# 👋 Hi, I'm Yesashwini Patil
 ## 💻 Full Stack Developer | React Specialist | Backend Engineer
 
-I'm a full stack developer with experience in frontend development, currently building scalable web applications using modern technologies.
+I'm a full stack developer with 4 years of experience building scalable web applications using modern technologies.
 I enjoy designing clean user interfaces, building RESTful APIs, and understanding system architecture from end to end.
 
-</div>
 
 ---
 
@@ -79,8 +77,6 @@ I enjoy designing clean user interfaces, building RESTful APIs, and understandin
 
 ---
 
-<div align="center">
 
 ⭐ **Full Stack Developer. Always learning. Always building.**
 
-</div>
