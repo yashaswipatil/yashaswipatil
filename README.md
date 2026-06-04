@@ -22,7 +22,7 @@ I enjoy designing clean user interfaces, building RESTful APIs, and understandin
 ## 🛠 Tech Stack
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,redux,axios)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,redux)](https://skillicons.dev)
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
@@ -36,13 +36,11 @@ I enjoy designing clean user interfaces, building RESTful APIs, and understandin
 
 <div align="center">
 
-![Yashaswi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashaswipatil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashaswipatil&layout=compact&theme=tokyonight&hide_border=true)
+![Yashaswi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yashaswipatil&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashaswipatil&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -69,7 +67,7 @@ I enjoy designing clean user interfaces, building RESTful APIs, and understandin
 
 ## 📫 Connect With Me
 
-📧 Email: ya@gmail.com
+📧 Email: ya@gmail.com  
 💼 Open to internship and software engineering opportunities
 
 ---
