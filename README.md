@@ -21,24 +21,41 @@ I enjoy designing clean user interfaces, building RESTful APIs, and understandin
 
 ## 🛠 Tech Stack
 
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,redux)](https://skillicons.dev)
+### 🧑‍💻 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=js,python,mysql)](https://skillicons.dev)
 
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+`JavaScript` `ES6+` `Python` `SQL`
 
-### Database & Cloud
-[![My Skills](https://skillicons.dev/icons?i=mysql,supabase,firebase)](https://skillicons.dev)
+### 🎨 Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,redux,html,css,materialui,tailwind)](https://skillicons.dev)
+
+`React.js` `Redux` `HTML5` `CSS3` `Material UI` `Tailwind CSS`
+
+### ⚙️ Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql)](https://skillicons.dev)
+
+`Node.js` `Express.js` `FastAPI` `Flask` `RESTful APIs` `GraphQL`
+
+### 🗄️ Databases
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase)](https://skillicons.dev)
+
+`PostgreSQL` `MongoDB` `Microsoft SQL Server` `Supabase`
+
+### ☁️ Cloud Platforms
+[![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+
+`Google Cloud Platform` `Cloud Run` `Cloud Functions` `Cloud Scheduler` `Cloud SQL` `BigQuery`
+
+### 🛠 DevOps & Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,jira,vscode)](https://skillicons.dev)
+
+`Docker` `Kubernetes` `CI/CD` `GitHub Actions` `Git` `Jira` `VS Code`
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -67,7 +84,7 @@ I enjoy designing clean user interfaces, building RESTful APIs, and understandin
 
 ## 📫 Connect With Me
 
-📧 Email: ya@gmail.com  
+📧 Email: yashaswipatil75@gmail.com  
 💼 Open to internship and software engineering opportunities
 
 ---
